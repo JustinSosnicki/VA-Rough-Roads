@@ -3,7 +3,7 @@
 A route-planning tool for checking driving routes against Virginia's
 Very Poor-condition and unpaved state roads.
 
-**Live site:** `https://<your-username>.github.io/<repo-name>/` (fill in once published)
+**Live site:** `https://JustinSosnicki.github.io/VA-Rough-Roads` (fill in once published)
 
 ## What it does
 
