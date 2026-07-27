@@ -16,7 +16,7 @@ Very Poor-condition and unpaved state roads.
   unpaved-road warning per route, plus a side-by-side comparison when
   multiple routes are loaded
 - Right-click (desktop) any point on the map to jump to Street View there
-- Export a printable route map as a PNG
+- Export a printable caution guide
 
 ## Data sources & attribution
 
